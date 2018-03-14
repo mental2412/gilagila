@@ -1,2 +1,6 @@
+<<<<<<< HEAD
  ok now we fly
 ok now we die
+=======
+efervhqwerpgnqgjrnhgpoqerhgiergerhnpgege
+>>>>>>> 9bfcdc10f09d939cb7ae5eaf1ef7fe89dfe3597c
